@@ -1,0 +1,17 @@
+﻿@model Assignment3.Models.Customer
+
+<h2>Unregister Service for Customer: @Model.Name</h2>
+
+<form asp-action="UnregisterService">
+    <div class="form-group">
+        <label for="serviceId">Select Service:</label>
+        <select class="form-control" id="serviceId" name="serviceId">
+            @foreach (var service in ViewBag.Services)
+            {
+                <option value="@service.ServiceId">@service.ServiceName</option>
+            }
+        </select>
+    </div>
+    <input type="hidden" name="customerId" value="@Model.CustomerId" />
+    <button type="submit" class="btn btn-danger">Unregister Service</button>
+</form>

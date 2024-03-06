@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F053D870-2093-4656-BFA9-28CD596A14EB}|https" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3/Views/Customer/Create.cshtml">
+    <Files>
+      <File FileName="Assignment3/Data/ApplicationDbContext.cs" />
+      <File FileName="Assignment3/Models/Customer.cs" />
+      <File FileName="Assignment3/Models/Employee.cs" />
+      <File FileName="Assignment3/Models/Service.cs" />
+      <File FileName="Assignment3/Models/Person.cs" />
+      <File FileName="Assignment3/Models/CustomerService.cs" />
+      <File FileName="Assignment3/Controllers/CustomerController.cs" />
+      <File FileName="Assignment3/Views/Customer/RegisterService.cshtml" />
+      <File FileName="Assignment3/Views/Customer/UnregisterService.cshtml" />
+      <File FileName="Assignment3/Views/Customer/Index.cshtml" />
+      <File FileName="Assignment3/Views/Customer/Edit.cshtml" />
+      <File FileName="Assignment3/Views/Customer/Details.cshtml" />
+      <File FileName="Assignment3/Views/Customer/Delete.cshtml" />
+      <File FileName="Assignment3/Views/Customer/Create.cshtml" Line="21" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment3" expanded="True">
+            <Node name="Assignment3" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Customer" expanded="True">
+                  <Node name="Create.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assignment3 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
