@@ -59,11 +59,12 @@ namespace Assignment3.Data.Migrations
                     b.Property<int>("PersonId")
                         .HasColumnType("INTEGER");
 
-                    b.Property<string>("Qualification")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
+                    b.Property<int?>("ServiceId")
+                        .HasColumnType("INTEGER");
 
                     b.HasKey("EmployeeId");
+
+                    b.HasIndex("ServiceId");
 
                     b.ToTable("Employees");
                 });
@@ -294,6 +295,15 @@ namespace Assignment3.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("Assignment3.Models.Employee", b =>
+                {
+                    b.HasOne("Assignment3.Models.Service", "Service")
+                        .WithMany("Employees")
+                        .HasForeignKey("ServiceId");
+
+                    b.Navigation("Service");
+                });
+
             modelBuilder.Entity("CustomerService", b =>
                 {
                     b.HasOne("Assignment3.Models.Customer", null)
@@ -358,6 +368,11 @@ namespace Assignment3.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("Assignment3.Models.Service", b =>
+                {
+                    b.Navigation("Employees");
                 });
 #pragma warning restore 612, 618
         }

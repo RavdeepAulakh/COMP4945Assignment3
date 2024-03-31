@@ -273,7 +273,6 @@
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/scopedcss/bundle/Assignment3.styles.css
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/scopedcss/projectbundle/Assignment3.bundle.scp.css
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.csproj.CopyComplete
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/refint/Assignment3.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.pdb
@@ -298,3 +297,4 @@
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.csproj.CopyComplete

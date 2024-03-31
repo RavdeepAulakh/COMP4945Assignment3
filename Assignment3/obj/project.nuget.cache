@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SbxGO49D7FfEYRqIcYGuVl78pXU2zausBO5Cgl7HIpvEw1MZrFDTega/mUyHLrOUKQ5kfRBgg8iR2qqdC/vK4g==",
+  "dgSpecHash": "vDXAbOKqCPTxV3IuchgRokBOPXPLdSe6DFMg8b1qEeQYo5KXayzlQLf/blH8zmR8QyhHEvOHcHQzjZWS3exmmA==",
   "success": true,
   "projectFilePath": "/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/Assignment3.csproj",
   "expectedPackageFiles": [
@@ -250,7 +250,10 @@
     "/Users/ravdeepaulakh/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512"
+    "/Users/ravdeepaulakh/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
+    "/Users/ravdeepaulakh/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/ravdeepaulakh/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/ravdeepaulakh/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.17/microsoft.netcore.app.host.osx-arm64.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }

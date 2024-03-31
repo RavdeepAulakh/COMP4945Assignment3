@@ -10,23 +10,40 @@
     <h4>Customer</h4>
     <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.PersonId)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.PersonId)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Name)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Name)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Address)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dd>
+            <h4>Services</h4>
+            <hr />
+            @if (Model.Services != null && Model.Services.Any())
+            {
+                <ul>
+                    @foreach (var service in Model.Services)
+                    {
+                        <li>@Html.DisplayFor(modelItem => service.ServiceName)</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p>No services registered for this customer.</p>
+            }
         </dd>
     </dl>
 </div>

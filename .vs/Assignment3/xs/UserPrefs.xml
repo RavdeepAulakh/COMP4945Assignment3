@@ -1,23 +1,20 @@
-﻿<Properties StartupConfiguration="{F053D870-2093-4656-BFA9-28CD596A14EB}|https" GitUserInfo="UsingGIT">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3/Views/Customer/Create.cshtml">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F053D870-2093-4656-BFA9-28CD596A14EB}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assignment3 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3/Controllers/EmployeeController.cs">
     <Files>
-      <File FileName="Assignment3/Data/ApplicationDbContext.cs" />
-      <File FileName="Assignment3/Models/Customer.cs" />
-      <File FileName="Assignment3/Models/Employee.cs" />
-      <File FileName="Assignment3/Models/Service.cs" />
-      <File FileName="Assignment3/Models/Person.cs" />
-      <File FileName="Assignment3/Models/CustomerService.cs" />
-      <File FileName="Assignment3/Controllers/CustomerController.cs" />
-      <File FileName="Assignment3/Views/Customer/RegisterService.cshtml" />
-      <File FileName="Assignment3/Views/Customer/UnregisterService.cshtml" />
-      <File FileName="Assignment3/Views/Customer/Index.cshtml" />
-      <File FileName="Assignment3/Views/Customer/Edit.cshtml" />
-      <File FileName="Assignment3/Views/Customer/Details.cshtml" />
-      <File FileName="Assignment3/Views/Customer/Delete.cshtml" />
-      <File FileName="Assignment3/Views/Customer/Create.cshtml" Line="7" Column="16" />
-      <File FileName="Assignment3/Controllers/HomeController.cs" />
-      <File FileName="Assignment3/Controllers/EmployeeController.cs" />
+      <File FileName="Assignment3/Controllers/EmployeeController.cs" Line="65" Column="48" />
+      <File FileName="Assignment3/Models/Employee.cs" Line="16" Column="2" />
+      <File FileName="Assignment3/Controllers/CustomerController.cs" Line="58" Column="31" />
+      <File FileName="Assignment3/Views/Employee/Create.cshtml" Line="7" Column="16" />
+      <File FileName="Assignment3/Views/Employee/Delete.cshtml" Line="18" Column="52" />
+      <File FileName="Assignment3/Views/Employee/Details.cshtml" Line="17" Column="52" />
+      <File FileName="Assignment3/Views/Employee/Edit.cshtml" Line="19" Column="50" />
+      <File FileName="Assignment3/Views/Employee/Index.cshtml" Line="34" Column="59" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -28,9 +25,8 @@
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Customer" expanded="True">
-                  <Node name="Create.cshtml" selected="True" />
-                </Node>
+                <Node name="Customer" expanded="True" />
+                <Node name="Employee" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -38,10 +34,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Assignment3 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>

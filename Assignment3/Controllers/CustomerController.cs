@@ -35,6 +35,7 @@ namespace Assignment3.Controllers
             }
 
             var customer = await _context.Customers
+                .Include(c => c.Services) // Include the Services navigation property
                 .FirstOrDefaultAsync(m => m.CustomerId == id);
             if (customer == null)
             {
@@ -192,6 +193,7 @@ namespace Assignment3.Controllers
             }
 
             var customer = await _context.Customers
+                .Include(c => c.Services) // Include the Services navigation property
                 .FirstOrDefaultAsync(m => m.CustomerId == id);
             if (customer == null)
             {
