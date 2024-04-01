@@ -17,6 +17,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.16",
           "Microsoft.EntityFrameworkCore.Sqlite": "7.0.15",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.15",
+          "Microsoft.TestPlatform": "17.9.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.12",
           "NUnit": "4.1.0",
           "NUnit3TestAdapter": "4.5.0",
@@ -1554,6 +1555,7 @@
           }
         }
       },
+      "Microsoft.TestPlatform/17.9.0": {},
       "Microsoft.VisualStudio.Web.CodeGeneration/7.0.12": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
@@ -3770,6 +3772,13 @@
       "sha512": "sha512-N4KeF3cpcm1PUHym1RmakkzfkEv3GRMyofVv40uXsQhCQeglr2OHNcUk2WOG51AKpGO8ynGpo9M/kFXSzghwug==",
       "path": "microsoft.sqlserver.server/1.0.0",
       "hashPath": "microsoft.sqlserver.server.1.0.0.nupkg.sha512"
+    },
+    "Microsoft.TestPlatform/17.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lqPzfM6C5eIXLtp1TvLf329jBFkRrtatfvdxb79S6+t2X2XQVJxyigpoV4g3rBkqn1AGbLOa6/fGV0ef4CoHJQ==",
+      "path": "microsoft.testplatform/17.9.0",
+      "hashPath": "microsoft.testplatform.17.9.0.nupkg.sha512"
     },
     "Microsoft.VisualStudio.Web.CodeGeneration/7.0.12": {
       "type": "package",

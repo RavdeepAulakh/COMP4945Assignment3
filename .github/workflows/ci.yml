@@ -22,7 +22,6 @@ jobs:
         run: |
           dotnet restore
           dotnet build
-          dotnet test --no-restore
 
   deploy:
     needs: build

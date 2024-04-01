@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Sl13Yvl78049VFhpyIC5fQ7rJ3l7qCq0GXCNtrTK8NGhuCJd4c/WxJFU0Z8Mib3Mm3jIBJW/osXIcGM026T35w==",
+  "dgSpecHash": "GMUrdZ+Tf0HnF7keDjBa3uFTL1WvG7BtGTSEpFvNgwArdyMWBqUh1Gr+WKSDdgllpAbdMAsncYSgtxvaecZj7Q==",
   "success": true,
   "projectFilePath": "/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/Assignment3.csproj",
   "expectedPackageFiles": [
@@ -119,6 +119,7 @@
     "/Users/ravdeepaulakh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "/Users/ravdeepaulakh/.nuget/packages/microsoft.testplatform/17.9.0/microsoft.testplatform.17.9.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/microsoft.visualstudio.web.codegeneration/7.0.12/microsoft.visualstudio.web.codegeneration.7.0.12.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/microsoft.visualstudio.web.codegeneration.core/7.0.12/microsoft.visualstudio.web.codegeneration.core.7.0.12.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/microsoft.visualstudio.web.codegeneration.design/7.0.12/microsoft.visualstudio.web.codegeneration.design.7.0.12.nupkg.sha512",
@@ -260,10 +261,7 @@
     "/Users/ravdeepaulakh/.nuget/packages/xunit.assert/2.7.0/xunit.assert.2.7.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/xunit.core/2.7.0/xunit.core.2.7.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/xunit.extensibility.core/2.7.0/xunit.extensibility.core.2.7.0.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/xunit.extensibility.execution/2.7.0/xunit.extensibility.execution.2.7.0.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.17/microsoft.netcore.app.host.osx-arm64.7.0.17.nupkg.sha512"
+    "/Users/ravdeepaulakh/.nuget/packages/xunit.extensibility.execution/2.7.0/xunit.extensibility.execution.2.7.0.nupkg.sha512"
   ],
   "logs": []
 }
