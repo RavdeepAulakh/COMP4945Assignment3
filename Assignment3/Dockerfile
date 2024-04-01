@@ -3,8 +3,10 @@ FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /app
 
 # Copy the project files and restore dependencies
-COPY *.csproj .
-RUN dotnet restore
+WORKDIR /app
+COPY Assignment3/*.csproj ./Assignment3/
+RUN dotnet restore ./Assignment3/Assignment3.csproj
+
 
 # Copy the remaining files and build the application
 COPY . .
