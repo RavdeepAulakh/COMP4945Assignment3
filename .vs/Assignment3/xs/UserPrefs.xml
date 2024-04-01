@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{F053D870-2093-4656-BFA9-28CD596A14EB}|https" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3/Tests/EmployeeTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3UnitTests/EmployeeTest.cs">
     <Files>
       <File FileName="Assignment3/Controllers/EmployeeController.cs" Line="179" Column="14" />
       <File FileName="Assignment3/Models/Employee.cs" Line="23" Column="1" />
@@ -15,22 +15,23 @@
       <File FileName="Assignment3/Models/Service.cs" Line="9" Column="43" />
       <File FileName="Assignment3/Models/EmployeeService.cs" Line="14" Column="1" />
       <File FileName="Assignment3/Views/Customer/Index.cshtml" Line="36" Column="22" />
-      <File FileName="Assignment3/Dockerfile.txt" Line="1" Column="36" />
-      <File FileName="Assignment3/Tests/EmptyClass.cs" Line="23" Column="77" />
+      <File FileName="Assignment3/Dockerfile.txt" Line="25" Column="1" />
+      <File FileName="Assignment3UnitTests/UnitTest1.cs" Line="8" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Assignment3" expanded="True">
-            <Node name="Assignment3" selected="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Tests" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Customer" expanded="True" />
-                <Node name="Employee" expanded="True" />
-              </Node>
+            <Node name="Assignment3" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Assignment3">
+            <Node name="Assignment3" expanded="True" selected="True" />
+            <Node name="Assignment3UnitTests" expanded="True">
+              <Node name="Assignment3.Tests" expanded="True" />
             </Node>
           </Node>
         </State>

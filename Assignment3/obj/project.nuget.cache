@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GMUrdZ+Tf0HnF7keDjBa3uFTL1WvG7BtGTSEpFvNgwArdyMWBqUh1Gr+WKSDdgllpAbdMAsncYSgtxvaecZj7Q==",
+  "dgSpecHash": "ZiVgUP1gd+/WyfoHub7AssBH+CE/LZfCUxMT8u0uzcQ/y7H7JPViRJsu+4wm7FtAJAL7Ke6wwfmULSngRh+SIw==",
   "success": true,
   "projectFilePath": "/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/Assignment3.csproj",
   "expectedPackageFiles": [
@@ -142,8 +142,6 @@
     "/Users/ravdeepaulakh/.nuget/packages/nuget.projectmodel/6.6.1/nuget.projectmodel.6.6.1.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/nuget.protocol/6.6.1/nuget.protocol.6.6.1.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/nuget.versioning/6.6.1/nuget.versioning.6.6.1.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -254,14 +252,7 @@
     "/Users/ravdeepaulakh/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512",
     "/Users/ravdeepaulakh/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/xunit/2.7.0/xunit.2.7.0.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/xunit.analyzers/1.11.0/xunit.analyzers.1.11.0.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/xunit.assert/2.7.0/xunit.assert.2.7.0.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/xunit.core/2.7.0/xunit.core.2.7.0.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/xunit.extensibility.core/2.7.0/xunit.extensibility.core.2.7.0.nupkg.sha512",
-    "/Users/ravdeepaulakh/.nuget/packages/xunit.extensibility.execution/2.7.0/xunit.extensibility.execution.2.7.0.nupkg.sha512"
+    "/Users/ravdeepaulakh/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

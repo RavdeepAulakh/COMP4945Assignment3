@@ -1,12 +1,6 @@
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/appsettings.Development.json
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/appsettings.json
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/Assignment3.staticwebassets.runtime.json
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/NUnit3.TestAdapter.dll
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/nunit.engine.dll
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/nunit.engine.api.dll
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/nunit.engine.core.dll
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/testcentric.engine.metadata.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/app.db
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/Assignment3
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/Assignment3.deps.json
@@ -82,8 +76,6 @@
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/NuGet.ProjectModel.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/NuGet.Protocol.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/NuGet.Versioning.dll
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/nunit.framework.dll
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/nunit.framework.legacy.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/SQLitePCLRaw.core.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
@@ -103,10 +95,6 @@
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/System.Security.Permissions.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/System.Windows.Extensions.dll
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/xunit.abstractions.dll
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/xunit.assert.dll
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/xunit.core.dll
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/xunit.execution.dotnet.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/af/Humanizer.resources.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/ar/Humanizer.resources.dll
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/bin/Debug/net7.0/az/Humanizer.resources.dll
@@ -310,5 +298,4 @@
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.pdb
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.genruntimeconfig.cache
 /Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/ref/Assignment3.dll
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.sourcelink.json
-/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/Assignme.63108F37.Up2Date
+/Users/ravdeepaulakh/Projects/Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.csproj.CopyComplete
