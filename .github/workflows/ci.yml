@@ -32,7 +32,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Build Docker image
-        run: docker build -t myapp .
+        run: docker build -t myapp -f Assignment3/Dockerfile .
 
       - name: Run Docker container
         run: docker run -d -p 8080:80 myapp
